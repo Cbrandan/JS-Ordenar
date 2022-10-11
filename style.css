@@ -1,0 +1,26 @@
+.uno{
+    background-color: red;
+}
+
+.dos{
+    background-color: green;
+}
+
+.tres{
+    background-color: blue;
+}
+
+
+.pais{
+    width: 100px;
+    border: solid 1px gray;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.pais:hover{
+    background-color: #DDD;
+    border: solid 1px white;
+    
+}
